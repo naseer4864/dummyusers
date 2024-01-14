@@ -46,7 +46,7 @@ const blogs = () => {
       </div>
       <div className="flex flex-col sm:flex-row justify-between items-center gap-5">
         <div className="w-full">
-          <p className="text-gray-600 mb-4">Published on: December 10, 2022</p>
+          <p className="text-gray-600 mb-4">Published on: December 12, 2022</p>
           <Image
             src="https://i.ibb.co/pXFrJ2L/2021-12-26.jpg"
             width={400}
